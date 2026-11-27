@@ -1,4 +1,6 @@
 ## Modificación para Pull Request
 
-Este cambio se ha realizado desde una rama secundaria
+Este cambio también se ha realizado desde una rama secundaria
 para practicar la colaboración con GitHub.
+
+
