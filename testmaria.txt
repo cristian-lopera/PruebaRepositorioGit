@@ -2,3 +2,5 @@
 
 Este cambio se ha realizado desde una rama secundaria
 para practicar la colaboración con GitHub.
+
+Segundo cambio realizado en rama secundaria para practicar colaboración con GitHub
